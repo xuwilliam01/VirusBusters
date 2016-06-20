@@ -1,0 +1,51 @@
+Music: (OST = Original Soundtrack)
+
+angelicBreakBeats - Angel Beats OST
+biasHacker - No Game No Life OST
+elevatorMusic - http://www.newgrounds.com/audio/listen/19019
+gateOfSteiner - Steinsgate OST
+meitaZoEndingGa - The World God Only Knows OST
+nightTownSurpass - Castlevania OST
+nowLoading - No Game No Life OST
+yakusokuNoParadigm - Steinsgate OST
+noGameNoLife - No Game No Life Opening Song
+
+Backgrounds:
+stage1Background - Made in paint as a collage of images from Google Images
+stage2Background - Made in paint as a collage of images from Google Images
+stage3Background - Made in paint as a collage of images from Google Images
+stage4Background - Made in paint as a collage of images from Google Images
+stage5Background - Made in paint as a collage of images from Google Images
+stage6Background - Made in paint as a collage of images from Google Images
+desktopBackground1-6 - Taken off my own collection of desktop background pictures
+matrix1-27 - Found as a .gif off of a matrix website and split apart into jpgs
+loginScreen - Screenshotted a Windows Vista computer and created in paint
+loading1-6 - Cropped out of the login screen and animated in paint
+
+Desktop Icons:
+googleEarth - Edited icon taken from my computer or from Google Images
+internetExplorer - Edited icon taken from my computer or from Google Images
+mediaPlayer - Edited icon taken from my computer or from Google Images
+messenger - Edited icon taken from my computer or from Google Images
+microsoftWord - Edited icon taken from my computer or from Google Images
+movieMaker - Edited icon taken from my computer or from Google Images
+msOffice - Edited icon taken from my computer or from Google Images
+myComputer - Edited icon taken from my computer or from Google Images
+paint - Edited icon taken from my computer or from Google Images
+save - Edited icon taken from my computer or from Google Images
+windowsExplorer - Edited icon taken from my computer or from Google Images
+recycleBin - Edited icon taken from my computer or from Google Images
+
+Store Icons:
+bigShield - Created in paint with Maplestory icon
+damageShield - Created in paint with Maplestory icon
+damageUp - Created in paint with Maplestory icon
+energize - Created in paint with Maplestory icon
+energyUp - Created in paint with Maplestory icon
+laserUp - Created in paint with Maplestory icon
+lazer - Created in paint with Maplestory icon
+leap - Created in paint with Maplestory icon
+multishot - Created in paint with Maplestory icon
+recovery - Created in paint with Maplestory icon
+
+-And basically everything else we drew/created ourselves
